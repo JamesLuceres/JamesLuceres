@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- Name Header -->
+  <!-- Typing SVG Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Vall+James+Luceres" alt="Vall James Luceres" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hello+there%2C+fellow+%3Cdevelopers%2F%3E%21;Vall+James+Luceres" alt="Hello there, fellow <developers/>!" />
   </a>
 
   <br/><br/>
