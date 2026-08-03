@@ -1,13 +1,11 @@
 <div align="center">
 
-  <!-- Typing SVG Header -->
+  <!-- Name Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%90%8B+I'm+Vall+James+Luceres;Full-Stack+Developer+%7C+Software+Engineer;Building+Scalable+Web+Apps+%26+AI+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Vall+James+Luceres" alt="Vall James Luceres" />
   </a>
 
-  <p align="center">
-    <b>Computer Science Graduate from University of the Philippines Tacloban College & Full-Stack Developer passionate about building robust systems, interactive web applications, and AI-driven solutions.</b>
-  </p>
+  <br/><br/>
 
   <!-- Quick Social Badges -->
   <a href="https://www.linkedin.com/in/vj-luceres">
@@ -28,11 +26,11 @@
 
 | Domain | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Frontend Frameworks** | ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=flat-square&logo=quasar&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
-| **Backend & APIs** | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Django REST](https://img.shields.io/badge/Django_REST-A30000?style=flat-square&logo=django&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
-| **AI / ML & Modeling** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![CNNs](https://img.shields.io/badge/Convolutional_Neural_Nets-00599C?style=flat-square) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
-| **Databases & Tools** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| **Frontend Frameworks** | ![Vue.js](https://img.shields.io/badge/-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white) ![Quasar](https://img.shields.io/badge/-1976D2?style=for-the-badge&logo=quasar&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) |
+| **Backend & APIs** | ![Django](https://img.shields.io/badge/-092E20?style=for-the-badge&logo=django&logoColor=white) ![Django REST](https://img.shields.io/badge/-A30000?style=for-the-badge&logo=django&logoColor=white) ![Node.js](https://img.shields.io/badge/-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) |
+| **AI / ML & Modeling** | ![PyTorch](https://img.shields.io/badge/-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Pandas](https://img.shields.io/badge/-150458?style=for-the-badge&logo=pandas&logoColor=white) |
+| **Databases & Tools** | ![PostgreSQL](https://img.shields.io/badge/-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
 
 </div>
 
@@ -51,9 +49,9 @@
       </p>
       <p>A full-stack web application combining real-time WebSocket messaging with instant payments and smart contract escrow execution.</p>
       <p>
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-092E20?style=flat-square&logo=django&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
       </p>
       <a href="https://github.com/JamesLuceres/ChatPay">👉 View Repository</a>
     </td>
@@ -64,9 +62,9 @@
       </p>
       <p>Algorithmic trading model incorporating Convolutional Neural Networks, technical indicators, and macroeconomic data representation.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square"/>
+        <img src="https://img.shields.io/badge/-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
       </p>
       <a href="https://github.com/JamesLuceres/TradeLENS">👉 View Repository</a>
     </td>
@@ -79,9 +77,9 @@
       </p>
       <p>Point-of-Sale & inventory management built for Nichole Agrivet with bulk/retail tracking, credit ledger (utang), and profit analytics.</p>
       <p>
-        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Quasar-1976D2?style=flat-square&logo=quasar&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-092E20?style=flat-square&logo=django&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-1976D2?style=flat-square&logo=quasar&logoColor=white"/>
       </p>
       <a href="https://github.com/JamesLuceres/Agrivet-Inventory-System">👉 View Repository</a>
     </td>
@@ -92,9 +90,8 @@
       </p>
       <p>Web-based Division Information Management System designed for file repositories, role-based access, and efficient file transfers.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-        <img src="https://img.shields.io/badge/System-CMSC135-blue?style=flat-square"/>
+        <img src="https://img.shields.io/badge/-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-092E20?style=flat-square&logo=django&logoColor=white"/>
       </p>
       <a href="https://github.com/UPTAC-KomSai-v2/cmsc135-division-information-management-system">👉 View Repository</a>
     </td>
