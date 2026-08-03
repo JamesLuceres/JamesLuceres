@@ -6,7 +6,7 @@
   </a>
 
   <p align="center">
-    <b>Computer Science Student & Full-Stack Developer passionate about building robust systems, interactive web applications, and AI-driven solutions.</b>
+    <b>Computer Science Graduate from University of the Philippines Tacloban College & Full-Stack Developer passionate about building robust systems, interactive web applications, and AI-driven solutions.</b>
   </p>
 
   <!-- Quick Social Badges -->
@@ -79,7 +79,7 @@
       </p>
       <p>Point-of-Sale & inventory management built for Nichole Agrivet with bulk/retail tracking, credit ledger (utang), and profit analytics.</p>
       <p>
-        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
         <img src="https://img.shields.io/badge/Quasar-1976D2?style=flat-square&logo=quasar&logoColor=white"/>
       </p>
@@ -100,23 +100,6 @@
     </td>
   </tr>
 </table>
-
-<br/>
-
----
-
-### 📊 GitHub Activity & Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JamesLuceres&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesLuceres&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="48%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JamesLuceres&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%"/>
-</div>
 
 <br/>
 
