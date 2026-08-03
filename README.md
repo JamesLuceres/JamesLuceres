@@ -2,7 +2,7 @@
 
   <h1>Vall James Luceres</h1>
   
-  <p>Full-Stack Developer • Software Engineer • Computer Science Graduate</p>
+  <p>Full-Stack Developer • Software Engineer • Computer Science Graduate from University of the Philippines Tacloban College</p>
   
   <br/>
 
