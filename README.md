@@ -20,6 +20,19 @@
 
 ---
 
+### 👨‍💻 About Me
+
+Hello! 👋 I'm **Vall James Luceres**, a **Computer Science Graduate** from the **University of the Philippines Tacloban College**.
+
+- 🎓 **Education**: B.S. in Computer Science — *University of the Philippines Tacloban College*
+- 💻 **Specialization**: Full-Stack Web Development, Micro-payments & Smart Contracts, Machine Learning & Algorithmic Trading Systems
+- 🛠️ **Core Technologies**: Python, Django REST, Vue.js, JavaScript, Java, PostgreSQL & PyTorch
+- 🎯 **Goal**: Building scalable software, intelligent systems, and intuitive user experiences
+
+<br/>
+
+---
+
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
